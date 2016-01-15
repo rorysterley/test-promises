@@ -1,0 +1,23 @@
+{
+  "name": "test-promises",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorysterley/test-promises.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rorysterley/test-promises/issues"
+  },
+  "homepage": "https://github.com/rorysterley/test-promises#readme",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "socket.io": "^1.4.4"
+  }
+}
